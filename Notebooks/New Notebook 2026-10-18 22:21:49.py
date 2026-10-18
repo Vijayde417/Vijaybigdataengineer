@@ -7,3 +7,4 @@ Names = ["Vijay", "Durga", "Prasad", "Kadiyam"]
 Capital_names = [name.upper() for name in Names]
 print(Capital_names)
 #this is test code added
+#new line added 2
